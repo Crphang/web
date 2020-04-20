@@ -21,8 +21,9 @@ curl -X GET \
 
 ```
 
-# Potential Enhancement
+# Enhancement
 
 1. Faster scraping and processing and seeding.
 1. Better database abstraction that does not have direct dependency with sqlite.
-
+1. Better server abstraction with router
+1. Better data transfer format, possibly JSON.
